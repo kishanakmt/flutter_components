@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>40290821564-oe89u9tusq65nesghj7rpk28jhgk92v9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.40290821564-oe89u9tusq65nesghj7rpk28jhgk92v9</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDdMn8XUd0a4CSLl8fax9dye8IOEsf1YG0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>40290821564</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.component</string>
+	<key>PROJECT_ID</key>
+	<string>facebooksingin-78842</string>
+	<key>STORAGE_BUCKET</key>
+	<string>facebooksingin-78842.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:40290821564:ios:b5a9331a93be80115bf7b9</string>
+	<key>DATABASE_URL</key>
+	<string>https://facebooksingin-78842-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
